@@ -1,0 +1,12 @@
+--------------------------------------------------------------
+REPORT
+
+Count of requests: 6
+Count of unique IP-adress: 4
+
+Count of method:
+        GET  5
+        POST 1
+
+Famous URL: /index.html used 3 times
+--------------------------------------------------------------
